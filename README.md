@@ -208,4 +208,10 @@ state and action, it will always produce the same new state. Also it means that
 our reducer never updates the previous state, but rather creates a new state
 object.
 
+* Spread Operator Resources
+https://zhenyong.github.io/react/docs/jsx-spread.html
+https://zhenyong.github.io/react/docs/transferring-props.html
+https://davidwalsh.name/spread-operator
+https://gist.github.com/sebmarkbage/07bbe37bc42b6d4aef81
+
 <p class='util--hide'>View <a href='https://learn.co/lessons/redux-flow'>Redux Flow</a> on Learn.co and start learning to code for free.</p>
